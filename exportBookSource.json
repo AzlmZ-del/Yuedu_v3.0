@@ -1759,43 +1759,6 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "☬自用☬",
-    "bookSourceName": "☣落秋中文☣",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://m.luoqiuzw.com",
-    "customOrder": 0,
-    "enabled": true,
-    "enabledExplore": true,
-    "lastUpdateTime": 1603767742705,
-    "ruleBookInfo": {
-      "author": "class.author@a@text",
-      "intro": "class.review@text",
-      "name": "class.title@text",
-      "tocUrl": "text.查看完整目录@href"
-    },
-    "ruleContent": {
-      "content": "id.chaptercontent@p!0:1:-1:-2@html",
-      "nextContentUrl": "text.下一页@href"
-    },
-    "ruleExplore": {},
-    "ruleSearch": {
-      "author": "##作者：([^<]+)<##$1###",
-      "bookList": "tag.article",
-      "bookUrl": "tag.a.0@href\n<js>java.ajax(result)</js>\n##window.location.replace\\(\"([^\"]+)\"\\)##$1###",
-      "lastChapter": "class.c-text-line-text.0@text",
-      "name": "h3@text##最新章节.*"
-    },
-    "ruleToc": {
-      "chapterList": "id.chapterlist@p!0@a",
-      "chapterName": "text",
-      "chapterUrl": "href",
-      "nextTocUrl": "text.下一页@href"
-    },
-    "searchUrl": "https://m.baidu.com/s?word={{key}} site:m.luoqiuzw.com",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "",
-    "bookSourceGroup": "☬自用☬",
     "bookSourceName": "☣轻之国度☣",
     "bookSourceType": 0,
     "bookSourceUrl": "https://obsolete.lightnovel.us/",
