@@ -1,0 +1,43 @@
+{
+    "bookSourceComment": "",
+    "bookSourceGroup": "♥ Li ♥",
+    "bookSourceName": "【☁Toke-6♥】",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https:\/\/m.5gxs.com",
+    "bookUrlPattern": "https:\/\/m.5gxs.com\/info\/\\d+\/\\d+\/index.shtml",
+    "customOrder": 184,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "玄幻武侠::https:\/\/m.5gxs.com\/class\/class_1_{{page}}.html\n历史军事::https:\/\/m.5gxs.com\/class\/class_2_{{page}}.html\n悬疑灵异::https:\/\/m.5gxs.com\/class\/class_3_{{page}}.html\n游戏动漫::https:\/\/m.5gxs.com\/class\/class_4_{{page}}.html\n言情爽文::https:\/\/m.5gxs.com\/class\/class_5_{{page}}.html\n其他新书::https:\/\/m.5gxs.com\/class\/class_6_{{page}}.html",
+    "lastUpdateTime": 1627377572370,
+    "loginUrl": "",
+    "ruleBookInfo": {
+        "author": ".booktag@tag.a.0@text",
+        "coverUrl": ".bookintro img@src",
+        "intro": ".bookintro@text@js:result.trim().replace(\/[\\s\\t]+\/g, '\\n')",
+        "kind": ".booktag span@text##字|中|已",
+        "lastChapter": ".bookchapter@text",
+        "name": "h1@text"
+    },
+    "ruleContent": {
+        "content": ".readcotent@html##看小说.*5G.*",
+        "imageStyle": "0.0"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+        "author": "class.author@text",
+        "bookList": "class.bookbox",
+        "bookUrl": ".bookname a@href",
+        "coverUrl": ".bookname a@href@js:\nvar id = result.match(\/(\\d+)\\\/index\/)[1];\n'http:\/\/image.5gxs.com\/'+parseInt(id\/1000)+'\/'+id+'\/'+id+'s.jpg';",
+        "intro": ".update@textNodes@js:result.trim()",
+        "lastChapter": ".cat a@text",
+        "name": "class.bookname@a@text"
+    },
+    "ruleToc": {
+        "chapterList": "id.list-chapterAll@a",
+        "chapterName": "text",
+        "chapterUrl": "href##\\s+"
+    },
+    "searchUrl": "\/modules\/article\/search.php,{\n  \"charset\": \"gbk\",\n  \"method\": \"POST\",\n  \"body\": \"searchtype=articlename&searchkey={{key}}\"\n}",
+    "weight": 0
+}
