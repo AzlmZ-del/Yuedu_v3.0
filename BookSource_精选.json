@@ -1,40 +1,5 @@
 [
   {
-    "bookSourceUrl": "http://q1.colin1994.xyz",
-    "bookSourceType": "0",
-    "bookSourceName": "📙BT伙计(仅发现)",
-    "bookSourceGroup": "❦禁书🔞❦,❦看图🔞❦",
-    "bookSourceComment": "",
-    "loginUrl": "",
-    "bookUrlPattern": "",
-    "header": "",
-    "searchUrl": "",
-    "exploreUrl": "==============新片速递==============::&&\n最新合集::/pw/thread.php?fid=3&page={{page}}&&\n亞洲無碼::/pw/thread.php?fid=5&page={{page}}&&\n亚洲有码::/pw/thread.php?fid=22&page={{page}}&&\n歐美新片::/pw/thread.php?fid=7&page={{page}}&&\n三級寫真::/pw/thread.php?fid=18&page={{page}}&&\n网摘收藏::/pw/thread.php?fid=110&page={{page}}&&\n磁力专区::/pw/thread.php?fid=175&page={{page}}&&\n\n\n\n==============福利一區==============::&&\n成人笑话::/pw/thread.php?fid=200&page={{page}}&&\n性爱技巧::/pw/thread.php?fid=201&page={{page}}&&\n灣搭专版::/pw/thread.php?fid=30&page={{page}}&&\n蓝银专区::/pw/thread.php?fid=188&page={{page}}&&\n正片大片::/pw/thread.php?fid=83&page={{page}}&&\n小說下载::/pw/thread.php?fid=190&page={{page}}&&\n好片推荐::/pw/thread.php?fid=183&page={{page}}&&\n\n\n\n==============特色專區==============::&&\n\n\n\n==============美图欣赏==============::&&\n唯美写真::/pw/thread.php?fid=14&page={{page}}&&\n网友自拍::/pw/thread.php?fid=15&page={{page}}&&\n露出激情::/pw/thread.php?fid=16&page={{page}}&&\n街拍偷拍::/pw/thread.php?fid=49&page={{page}}&&\n丝袜美腿::/pw/thread.php?fid=21&page={{page}}&&\n卡通漫画::/pw/thread.php?fid=106&page={{page}}&&\n欧美风情::/pw/thread.php?fid=114&page={{page}}&&\n\n\n\n==============成人小说==============::&&\n都市激情::/pw/thread.php?fid=193&page={{page}}&&\n校园情事::/pw/thread.php?fid=195&page={{page}}&&\n人妻縱情::/pw/thread.php?fid=194&page={{page}}&&\n風俗倫理::/pw/thread.php?fid=196&page={{page}}&&\n另类小说::/pw/thread.php?fid=199&page={{page}}&&\n武侠古典::/pw/thread.php?fid=197&page={{page}}&&\n长篇连载::/pw/thread.php?fid=198&page={{page}}",
-    "enabled": true,
-    "enabledExplore": true,
-    "weight": 0,
-    "customOrder": -185600,
-    "lastUpdateTime": 1631208728608,
-    "ruleSearch": {},
-    "ruleExplore": {
-        "bookList": "class.tr3 t_one!0:1:2:3:4:5:6",
-        "name": "h3 a@text",
-        "author": "td.2@text",
-        "kind": "td.4@text##\\s.*",
-        "bookUrl": "h3 a@href"
-    },
-    "ruleBookInfo": {},
-    "ruleToc": {
-        "chapterList": "id.subject_tpc",
-        "chapterName": "text"
-    },
-    "ruleContent": {
-        "content": "id.read_tpc@html||.tpc_content@html##點擊進入.*|点击进入.*|=1024\\) window.*|<img src=\"https://bb.ax21pics.net/i/2021/05/04/syogu6.png\">|点我下载收藏本片.*|<img src=\"https://bb.ax21pics.net/i/2021/05/04/syojef.png\">|\n<js>\nvar str = result\nif(str.indexOf(\"--\")!=-1){\n    str.replace(/--.*--/g,\"==========================\")\n    }\nelse if(str.indexOf(\"==\")!=-1){\n    str.replace(/==.*==/g,\"==========================\")\n    }\nstr\n</js>",
-        "imageStyle": "FULL"
-    }
-  },
- 
-  {
     "bookSourceUrl": "https://www.owlook.com.cn",
     "bookSourceType": "0",
     "bookSourceName": "💠owlook",
