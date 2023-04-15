@@ -3,6 +3,39 @@
 
 // API 资源采集
 		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "　　　　　　",
+			"name": "༺ˇ»`ʚ  切片资源  ɞ´«ˇ༻",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
+			"type": 0,
+			"api": "http://f2dcj6.com/sapi/?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
 			"key": "http://www.lzzy.tv",
 			"name": "🐝量子资源Ⓢ",
 			"type": 1,
@@ -500,6 +533,39 @@
 
 // API 资源采集 Adult
 		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "　　　　　　",
+			"name": "༺ˇ»`ʚ  十大资源  ɞ´«ˇ༻",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
 			"key": "https://f2dzyw65.com",
 			"name": "🔞富 二 代㊙",
 			"type": 0,
@@ -599,6 +665,17 @@
 			"categories": []
 		},
 		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
 			"key": "http://wmcj8.com",
 			"name": "🔞环亚资源㊙",
 			"type": 0,
@@ -609,127 +686,85 @@
 			"filterable": 0,
 			"categories": []
 		},
-        {
-			"key": "https://www.msnii.com",
-			"name": "🔞美 少 女㊙",
+		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
 			"type": 0,
-			"api": "https://www.msnii.com/api/xml.php",
+			"api": "",
+			"playUrl": "",
 			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
 		},
-        {
-            "key": "https://www.xrbsp.com",
-			"name": "🔞淫 水 机㊙",
+		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
 			"type": 0,
-			"api": "https://www.xrbsp.com/api/xml.php",
+			"api": "",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.gdlsp.com",
-			"name": "🔞香 奶 儿㊙",
+		},
+		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
 			"type": 0,
-			"api": "https://www.gdlsp.com/api/xml.php",
+			"api": "",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.afasu.com",
-			"name": "🔞小 湿 妹㊙",
+		},
+		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
 			"type": 0,
-			"api": "https://www.afasu.com/api/xml.php",
+			"api": "",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.pgxdy.com",
-			"name": "🔞黄 Ａ Ｖ㊙",
+		},
+		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
 			"type": 0,
-			"api": "https://www.pgxdy.com/api/xml.php",
+			"api": "",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.kxgav.com",
-			"name": "🔞白嫖资源㊙",
+		},
+		{
+			"key": "　　　　　　",
+			"name": "༺ˇ»`ʚ  麻豆系列  ɞ´«ˇ༻",
 			"type": 0,
-			"api": "https://www.kxgav.com/api/xml.php",
+			"api": "",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://api.kudian70.com",
-			"name": "🔞酷 伦 理㊕",
-			"type": 1,
-			"api": "https://api.kudian70.com/api.php/provide/vod",
+		},
+		{
+			"key": "　　　　　　",
+			"name": "　　　　　　",
+			"type": 0,
+			"api": "",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://yingkuzy.com",
-			"name": "🔞影库资源㊕",
-			"type": 1,
-			"api": "https://api.ykapi.net/api.php/provide/vod",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-        },
-        {
-            "key": "https://kkzy.me",
-			"name": "🔞ＫＫ资源㊙",
-			"type": 1,
-			"api": "https://kkzy.me/api.php/provide/vod",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-        },
-        {
-            "key": "https://api.yikanapi.com",
-			"name": "🔞易看资源㊕",
-			"type": 1,
-			"api": "https://api.yikanapi.com/api.php/provide/vod",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-        },
-        {
-            "key": "https://api.yikanapi.com",
-			"name": "🔞易看资源㊕",
-			"type": 1,
-			"api": "https://api.yikanapi.com/api.php/provide/vod",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-        },
-        {
-            "key": "https://www.madou.pw",
+		},
+		{
+			"key": "https://www.madou.pw",
 			"name": "🔞麻 豆 社㊙",
 			"type": 1,
 			"api": "https://www.madou.pw/api.php/provide/vod",
@@ -738,9 +773,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://www.madouse.la",
+		},
+		{
+			"key": "http://www.madouse.la",
 			"name": "🔞麻 豆 网㊙",
 			"type": 1,
 			"api": "http://www.madouse.la/api.php/provide/vod",
@@ -749,9 +784,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.xkcm.cc",
+		},
+		{
+			"key": "https://www.xkcm.cc",
 			"name": "🔞星空传媒㊙",
 			"type": 1,
 			"api": "https://www.xkcm.cc/api.php/provide/vod",
@@ -760,9 +795,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://91md.me",
+		},
+		{
+			"key": "https://91md.me",
 			"name": "🔞九一麻豆㊙",
 			"type": 1,
 			"api": "https://91md.me/api.php/provide/vod",
@@ -771,9 +806,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.53894.com",
+		},
+		{
+			"key": "https://www.53894.com",
 			"name": "🔞麻豆传媒㊙",
 			"type": 1,
 			"api": "https://www.53894.com/api.php/provide/vod",
@@ -782,9 +817,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.91xsj.cc",
+		},
+		{
+			"key": "https://www.91xsj.cc",
 			"name": "🔞性 视 界㊙",
 			"type": 1,
 			"api": "https://www.91xsj.cc/api.php/provide/vod",
@@ -793,9 +828,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://51smt4.xyz",
+		},
+		{
+			"key": "https://51smt4.xyz",
 			"name": "🔞水 蜜 桃㊙",
 			"type": 1,
 			"api": "https://51smt4.xyz/api.php/provide/vod",
@@ -804,9 +839,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://smt999.cc",
+		},
+		{
+			"key": "https://smt999.cc",
 			"name": "🔞水 蜜 桃㊙",
 			"type": 1,
 			"api": "https://smt999.cc/api.php/provide/vod",
@@ -815,9 +850,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://aosikazy.com",
+		},
+		{
+			"key": "https://aosikazy.com",
 			"name": "🔞奥 斯 卡㊙",
 			"type": 1,
 			"api": "https://aosikazy.com/api.php/provide/vod",
@@ -826,9 +861,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.madou.fit",
+		},
+		{
+			"key": "https://www.madou.fit",
 			"name": "🔞麻豆射区㊙",
 			"type": 1,
 			"api": "https://www.madou.fit/api.php/provide/vod",
@@ -837,9 +872,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://www.mdmd.pw",
+		},
+		{
+			"key": "http://www.mdmd.pw",
 			"name": "🔞黄瓜视频㊙",
 			"type": 1,
 			"api": "http://www.mdmd.pw/api.php/provide/vod",
@@ -848,9 +883,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://www.tianmei.pw",
+		},
+		{
+			"key": "http://www.tianmei.pw",
 			"name": "🔞黄瓜视频㊙",
 			"type": 1,
 			"api": "http://www.tianmei.pw/api.php/provide/vod",
@@ -859,9 +894,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://www.56cf.com",
+		},
+		{
+			"key": "http://www.56cf.com",
 			"name": "🔞蜜桃影像㊙",
 			"type": 1,
 			"api": "http://www.56cf.com/api.php/provide/vod",
@@ -870,9 +905,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://www.9xg.cc",
+		},
+		{
+			"key": "http://www.9xg.cc",
 			"name": "🔞蜜桃影像㊙",
 			"type": 1,
 			"api": "http://www.9xg.cc/api.php/provide/vod",
@@ -881,9 +916,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://www.regou.la",
+		},
+		{
+			"key": "http://www.regou.la",
 			"name": "🔞麻豆天美㊙",
 			"type": 1,
 			"api": "http://www.regou.la/api.php/provide/vod",
@@ -892,9 +927,130 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://siwazyw.cc",
+		},
+
+
+		{
+			"key": "https://www.msnii.com",
+			"name": "🔞美 少 女㊙",
+			"type": 0,
+			"api": "https://www.msnii.com/api/xml.php",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0
+		},
+		{
+			"key": "https://www.xrbsp.com",
+			"name": "🔞淫 水 机㊙",
+			"type": 0,
+			"api": "https://www.xrbsp.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.gdlsp.com",
+			"name": "🔞香 奶 儿㊙",
+			"type": 0,
+			"api": "https://www.gdlsp.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.afasu.com",
+			"name": "🔞小 湿 妹㊙",
+			"type": 0,
+			"api": "https://www.afasu.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.pgxdy.com",
+			"name": "🔞黄 Ａ Ｖ㊙",
+			"type": 0,
+			"api": "https://www.pgxdy.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.kxgav.com",
+			"name": "🔞白嫖资源㊙",
+			"type": 0,
+			"api": "https://www.kxgav.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://api.kudian70.com",
+			"name": "🔞酷 伦 理㊕",
+			"type": 1,
+			"api": "https://api.kudian70.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://yingkuzy.com",
+			"name": "🔞影库资源㊕",
+			"type": 1,
+			"api": "https://api.ykapi.net/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://kkzy.me",
+			"name": "🔞ＫＫ资源㊙",
+			"type": 1,
+			"api": "https://kkzy.me/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://api.yikanapi.com",
+			"name": "🔞易看资源㊕",
+			"type": 1,
+			"api": "https://api.yikanapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://api.yikanapi.com",
+			"name": "🔞易看资源㊕",
+			"type": 1,
+			"api": "https://api.yikanapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://siwazyw.cc",
 			"name": "🔞丝袜资源㊙",
 			"type": 1,
 			"api": "https://siwazyw.cc/api.php/provide/vod",
