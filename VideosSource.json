@@ -1114,9 +1114,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://api.xiuseapi.com",
+		},
+		{
+			"key": "https://api.xiuseapi.com",
 			"name": "🔞秀色资源㊙",
 			"type": 1,
 			"api": "https://api.xiuseapi.com/api.php/provide/vod",
@@ -1125,9 +1125,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://tantanzy.com",
+		},
+		{
+			"key": "https://tantanzy.com",
 			"name": "🔞探探资源㊙",
 			"type": 1,
 			"api": "https://apittzy.com/api.php/provide/vod",
@@ -1136,9 +1136,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://99zy.pw",
+		},
+		{
+			"key": "https://99zy.pw",
 			"name": "🔞九九资源㊙",
 			"type": 1,
 			"api": "https://99zy.pw/api.php/provide/vod",
@@ -1147,9 +1147,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.888dav.com",
+		},
+		{
+			"key": "https://www.888dav.com",
 			"name": "🔞抖阴视频㊙",
 			"type": 1,
 			"api": "https://www.888dav.com/api.php/provide/vod",
@@ -1158,9 +1158,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://kudouzy.com",
+		},
+		{
+			"key": "https://kudouzy.com",
 			"name": "🔞酷豆资源㊙",
 			"type": 1,
 			"api": "https://api.kdapi.info/api.php/provide/vod",
@@ -1169,9 +1169,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://laoyazy.com",
+		},
+		{
+			"key": "http://laoyazy.com",
 			"name": "🔞老鸭资源㊙",
 			"type": 1,
 			"api": "https://api.apilyzy.com/api.php/provide/vod",
@@ -1180,9 +1180,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://www.lajiaozy.com",
+		},
+		{
+			"key": "http://www.lajiaozy.com",
 			"name": "🔞辣椒资源㊙",
 			"type": 1,
 			"api": "https://apilj.com/api.php/provide/vod",
@@ -1191,9 +1191,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://lebozy.com",
+		},
+		{
+			"key": "https://lebozy.com",
 			"name": "🔞乐播资源㊙",
 			"type": 1,
 			"api": "https://lbapi9.com",
@@ -1202,9 +1202,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://jializyzapi.com",
+		},
+		{
+			"key": "https://jializyzapi.com",
 			"name": "🔞佳丽资源㊙",
 			"type": 1,
 			"api": "https://jializyzapi.com/api.php/provide/vod",
@@ -1213,9 +1213,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://fhapi9.com",
+		},
+		{
+			"key": "http://fhapi9.com",
 			"name": "🔞番号资源㊙",
 			"type": 1,
 			"api": "http://fhapi9.com/api.php/provide/vod",
@@ -1224,9 +1224,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://shayuapi.com",
+		},
+		{
+			"key": "https://shayuapi.com",
 			"name": "🔞鲨鱼资源㊙",
 			"type": 1,
 			"api": "https://shayuapi.com/api.php/provide/vod",
@@ -1235,9 +1235,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://mgzyz1.com",
+		},
+		{
+			"key": "https://mgzyz1.com",
 			"name": "🔞芒果ＡＶ㊙",
 			"type": 1,
 			"api": "https://mgzyz1.com/api.php/provide/vod",
@@ -1246,9 +1246,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://sewozy.com",
+		},
+		{
+			"key": "http://sewozy.com",
 			"name": "🔞色窝资源㊙",
 			"type": 1,
 			"api": "https://sewozyapi.com",
@@ -1257,9 +1257,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://api.avkk8zy.com",
+		},
+		{
+			"key": "http://api.avkk8zy.com",
 			"name": "🔞艾薇资源㊙",
 			"type": 1,
 			"api": "http://api.avkk8zy.com/api.php/provide/vod",
@@ -1268,9 +1268,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://155zy.com",
+		},
+		{
+			"key": "http://155zy.com",
 			"name": "🔞一五资源㊙",
 			"type": 1,
 			"api": "https://155api.com",
@@ -1279,9 +1279,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://langyouzy.com",
+		},
+		{
+			"key": "https://langyouzy.com",
 			"name": "🔞狼友资源㊙",
 			"type": 1,
 			"api": "https://langyouzy.com/api.php/provide/vod",
@@ -1290,9 +1290,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://hghhh.com",
+		},
+		{
+			"key": "https://hghhh.com",
 			"name": "🔞皇冠资源㊙",
 			"type": 1,
 			"api": "https://www.partnersky-horoskop.com/api.php/provide/vod",
@@ -1301,9 +1301,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.didizy.com",
+		},
+		{
+			"key": "https://www.didizy.com",
 			"name": "🔞滴滴资源㊙",
 			"type": 1,
 			"api": "https://api.ddapi.cc/api.php/provide/vod",
@@ -1312,9 +1312,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://xuebaozy.com",
+		},
+		{
+			"key": "https://xuebaozy.com",
 			"name": "🔞雪豹资源㊙",
 			"type": 1,
 			"api": "https://api.xbapi.cc",
@@ -1323,9 +1323,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://huasezy.com",
+		},
+		{
+			"key": "http://huasezy.com",
 			"name": "🔞花色资源㊙",
 			"type": 1,
 			"api": "https://api.huasezy.xyz/api.php/provide/vod",
@@ -1334,9 +1334,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://hszy.vip",
+		},
+		{
+			"key": "https://hszy.vip",
 			"name": "🔞黄色资源㊙",
 			"type": 1,
 			"api": "https://hszy.vip/api.php/provide/vod",
@@ -1345,9 +1345,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "http://langchaozy11.com",
+		},
+		{
+			"key": "http://langchaozy11.com",
 			"name": "🔞浪潮资源㊙",
 			"type": 1,
 			"api": "http://langchaozy11.com/api.php/provide/vod",
@@ -1356,9 +1356,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://slapibf.com",
+		},
+		{
+			"key": "https://slapibf.com",
 			"name": "🔞森林资源㊙",
 			"type": 1,
 			"api": "https://slapibf.com/api.php/provide/vod",
@@ -1367,9 +1367,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://beiyong.slapibf.com",
+        	},
+        	{
+			"key": "https://beiyong.slapibf.com",
 			"name": "🔞森林资源㊙",
 			"type": 1,
 			"api": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -1378,9 +1378,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://www.zy018.com",
+        	},
+        	{
+			"key": "https://www.zy018.com",
 			"name": "🔞黄瓜资源㊙",
 			"type": 1,
 			"api": "https://www.zy018.com/api.php/provide/vod",
@@ -1389,9 +1389,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://yutuzy.com",
+        	},
+        	{
+			"key": "https://yutuzy.com",
 			"name": "🔞玉兔资源㊙",
 			"type": 1,
 			"api": "https://apiyutu.com",
@@ -1400,9 +1400,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://putaozy.com",
+        	},
+        	{
+			"key": "https://putaozy.com",
 			"name": "🔞葡萄资源㊙",
 			"type": 1,
 			"api": "https://caiji.putaozy.net/inc/apijson_vod.php",
@@ -1411,9 +1411,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://putaozy.com",
+        	},
+        	{
+			"key": "https://putaozy.com",
 			"name": "🔞葡萄资源㊙",
 			"type": 1,
 			"api": "https://api.putaozy.net/inc/apijson_vod.php",
@@ -1422,9 +1422,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://huakuizy.com",
+        	},
+        	{
+			"key": "https://huakuizy.com",
 			"name": "🔞花魁资源㊙",
 			"type": 1,
 			"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
@@ -1433,9 +1433,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://523zyw.me",
+        	},
+        	{
+			"key": "https://523zyw.me",
 			"name": "🔞523资源㊙",
 			"type": 1,
 			"api": "https://caiji.523zyw.com/inc/apijson_vod.php",
@@ -1444,10 +1444,10 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://cmziyuan.com",
-			"name": "🔞xxxxxx㊙",
+        	},
+        	{
+			"key": "https://cmziyuan.com",
+			"name": "🔞草莓资源㊙",
 			"type": 1,
 			"api": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
 			"playUrl": "",
@@ -1455,9 +1455,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://semaozy.com",
+        	},
+        	{
+			"key": "https://semaozy.com",
 			"name": "🔞色猫资源㊙",
 			"type": 1,
 			"api": "https://api.maozyapi.com/inc/apijson_vod.php",
@@ -1466,9 +1466,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://monai.vip",
+        	},
+        	{
+			"key": "https://monai.vip",
 			"name": "🔞奶茶资源㊙",
 			"type": 1,
 			"api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
@@ -1477,9 +1477,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        },
-        {
-            "key": "https://api.sexnguon.com",
+        	},
+        	{
+			"key": "https://api.sexnguon.com",
 			"name": "🔞色 南 国㊙",
 			"type": 1,
 			"api": "https://api.sexnguon.com/api.php/provide/vod",
