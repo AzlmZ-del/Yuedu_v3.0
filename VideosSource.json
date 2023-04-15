@@ -1,0 +1,1807 @@
+{
+	"sites": [
+
+		{
+			"key": "http://www.lzzy.tv",
+			"name": "🐝量子资源Ⓢ",
+			"type": 1,
+			"api": "http://23.224.183.18/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片", "电影解说", "足球", "篮球", "网球", "斯诺克", "预告片"]
+		},
+		{
+			"key": "http://www.lzzy.tv",
+			"name": "🐝量子资源Ⓢ",
+			"type": 1,
+			"api": "https://cj.lziapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://www.ffzy.tv",
+			"name": "🐝非凡资源Ⓢ",
+			"type": 1,
+			"api": "http://www.ffzy.tv/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": ["动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片"]
+		},
+		{
+			"key": "http://www.ffzy.tv",
+			"name": "🐝非凡资源Ⓢ",
+			"type": 1,
+			"api": "https://cj.ffzyapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": ["动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片"]
+		},
+		{
+			"key": "http://wolongzyw.com",
+			"name": "🐝卧龙资源Ⓢ",
+			"type": 1,
+			"api": "https://collect.wolongzyw.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "家庭片", "古装片", "悬疑片", "犯罪片", "伦理片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国据", "纪录片", "短片", "动画片", "国产动漫", "欧美动漫", "日本动漫", "港台综艺", "韩国综艺", "大陆综艺", "欧美综艺", "电影解说", "篮球", "足球"]
+		},
+		{
+			"key": "https://lehootv.com",
+			"name": "🐝乐活影视Ⓢ",
+			"type": 1,
+			"api": "https://lehootv.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港剧", "日剧", "美剧", "台剧", "韩剧", "泰剧", "海外剧", "纪录片", "动画片", "游戏", "大陆综艺", "港台综艺", "欧美综艺", "日韩综艺", "国产动漫", "日本动漫", "欧美动漫", "奇幻片", "短视频", "伦理片"]
+		},
+		{
+			"key": "https://www.wujinzy.com",
+			"name": "🐝无尽资源Ⓢ",
+			"type": 1,
+			"api": "https://api.wujinapi.me/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.wujinzy.com",
+			"name": "🐝无尽资源Ⓢ",
+			"type": 1,
+			"api": "https://api.wujinapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.39kan.com",
+			"name": "🐝三九影视Ⓢ",
+			"type": 1,
+			"api": "https://www.39kan.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.inmi.app",
+			"name": "🐝映迷电影Ⓢ",
+			"type": 1,
+			"api": "https://www.inmi.app/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://hdzyk.com",
+			"name": "🐝1080资源Ⓢ",
+			"type": 1,
+			"api": "https://api.1080zyku.com/inc/apijson.php/",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://foxzyw.com",
+			"name": "🐝FOX资源Ⓐ",
+			"type": 1,
+			"api": "https://api.foxzyapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://ikunzy.com",
+			"name": "🐝ikun资源Ⓐ",
+			"type": 1,
+			"api": "https://ikunzyapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://ukuzy.com",
+			"name": "🐝Ｕ酷资源Ⓐ",
+			"type": 1,
+			"api": "https://api.ukuapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://pg.fenwe078.cf",
+			"name": "🐝四圈资源Ⓐ",
+			"type": 1,
+			"api": "https://pg.fenwe078.cf/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://jinyingzy.com",
+			"name": "🐝金鹰资源Ⓐ",
+			"type": 1,
+			"api": "https://jyzyapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://cj.guangsuzy.com",
+			"name": "🐝光速资源Ⓐ",
+			"type": 1,
+			"api": "https://api.guangsuapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.xinlangzy.com",
+			"name": "����新浪资源Ⓐ",
+			"type": 1,
+			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://68zy.com",
+			"name": "🐝六八资源Ⓐ",
+			"type": 1,
+			"api": "https://caiji.68zyapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://vipmv.cc",
+			"name": "🐝天堂资源Ⓐ",
+			"type": 1,
+			"api": "http://vipmv.cc/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.feisuzy.com",
+			"name": "🐝飞速资源Ⓐ",
+			"type": 1,
+			"api": "https://www.feisuzyapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://tiankongzy.com",
+			"name": "🐝天空资源Ⓐ",
+			"type": 1,
+			"api": "https://m3u8.tiankongapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://tiankongzy.com",
+			"name": "🐝天空资源Ⓐ",
+			"type": 1,
+			"api": "https://api.tiankongapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://www.zzrhgg.com",
+			"name": "🐝飘花电影Ⓐ",
+			"type": 1,
+			"api": "http://www.zzrhgg.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://sdzyapi.com",
+			"name": "🐝闪电资源Ⓐ",
+			"type": 1,
+			"api": "https://sdzyapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://yulezyw.com",
+			"name": "🐝鱼乐资源Ⓐ",
+			"type": 1,
+			"api": "https://api.ylzy1.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://yulezyw.com",
+			"name": "🐝鱼乐资源Ⓐ",
+			"type": 1,
+			"api": "https://api.yulecj.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://tianmaozy.com",
+			"name": "🐝天猫资源Ⓐ",
+			"type": 1,
+			"api": "https://tianmaozy.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.hongniuzy.com",
+			"name": "🐝红牛资源Ⓐ",
+			"type": 1,
+			"api": "https://www.hongniuzy2.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://kudianzy.com",
+			"name": "🐝酷点资源Ⓐ",
+			"type": 1,
+			"api": "https://api.kuapi.cc/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.kuaibozy.com",
+			"name": "🐝快播资源Ⓐ",
+			"type": 1,
+			"api": "http://www.kuaibocaiji.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://yhzy.cc",
+			"name": "🐝樱花资源Ⓑ",
+			"type": 1,
+			"api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://kuaichezy.com",
+			"name": "🐝快车资源Ⓑ",
+			"type": 1,
+			"api": "https://caiji.kczyapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://42.la",
+			"name": "🐝四二资源Ⓑ",
+			"type": 1,
+			"api": "https://42.la/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://zuidazy.me",
+			"name": "🐝最大资源Ⓑ",
+			"type": 1,
+			"api": "https://zuidazy.me/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.psinu.com",
+			"name": "🐝茶熊ＴＶⒷ",
+			"type": 1,
+			"api": "https://www.psinu.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.rrvipw.com",
+			"name": "🐝人人影视Ⓑ",
+			"type": 1,
+			"api": "https://www.rrvipw.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://tomziyuan.com",
+			"name": "🐝汤姆资源Ⓑ",
+			"type": 1,
+			"api": "https://api.tomcaiji.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.77hanju.com",
+			"name": "🐝七七韩剧Ⓑ",
+			"type": 1,
+			"api": "https://www.77hanju.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://ckzy.me",
+			"name": "🐝ＣＫ资源Ⓑ",
+			"type": 1,
+			"api": "https://ckzy.me/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://ckzy.me",
+			"name": "🐝ＣＫ资源Ⓑ",
+			"type": 1,
+			"api": "https://www.feifei67.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://api.nguonphim.tv",
+			"name": "🐝南国影视Ⓒ",
+			"type": 1,
+			"api": "https://api.nguonphim.tv/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://bdzy.com",
+			"name": "🐝百度资源Ⓒ",
+			"type": 1,
+			"api": "https://api.apibdzy.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://kuaijingji.com",
+			"name": "🐝竞技资源Ⓒ",
+			"type": 1,
+			"api": "https://api.kjjapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://cj.bajiecaiji.com",
+			"name": "🐝八戒资源Ⓒ",
+			"type": 1,
+			"api": "http://cj.bajiecaiji.com/inc/apijson_vod.php/",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+
+
+		{
+			"key": "https://f2dzyw65.com",
+			"name": "🔞富 二 代㊙",
+			"type": 0,
+			"api": "http://f2dcj6.com/sapi/?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://lsnb18.com",
+			"name": "🔞狼 少 年㊙",
+			"type": 0,
+			"api": "http://cjmygzy.com/inc/api.php?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://zmw654.com",
+			"name": "🔞字 幕 网㊙",
+			"type": 0,
+			"api": "http://zmcj88.com/sapi?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://bttcj.com",
+			"name": "🔞博 天 堂㊙",
+			"type": 0,
+			"api": "http://bttcj.com/inc/sapi.php?ac=list",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://mygzycj.com",
+			"name": "🔞JAV名优㊙",
+			"type": 0,
+			"api": "http://mygzycj.com/api.php?ac=list",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://jcspcj8.com",
+			"name": "🔞久草资源㊙",
+			"type": 0,
+			"api": "http://jcspcj8.com/sapi?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://llzxcj.com",
+			"name": "🔞利来资源㊙",
+			"type": 0,
+			"api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://secj8.com",
+			"name": "🔞色色资源㊙",
+			"type": 0,
+			"api": "http://secj8.com/inc/sapi.php?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://99zywcj.com",
+			"name": "🔞玖玖资源㊙",
+			"type": 0,
+			"api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://wmcj8.com",
+			"name": "🔞环亚资源㊙",
+			"type": 0,
+			"api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+        {
+			"key": "https://www.msnii.com",
+			"name": "🔞美 少 女㊙",
+			"type": 0,
+			"api": "https://www.msnii.com/api/xml.php",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0
+		},
+        {
+            "key": "https://www.xrbsp.com",
+			"name": "🔞淫 水 机㊙",
+			"type": 0,
+			"api": "https://www.xrbsp.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.gdlsp.com",
+			"name": "🔞香 奶 儿㊙",
+			"type": 0,
+			"api": "https://www.gdlsp.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.afasu.com",
+			"name": "🔞小 湿 妹㊙",
+			"type": 0,
+			"api": "https://www.afasu.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.pgxdy.com",
+			"name": "🔞黄 Ａ Ｖ㊙",
+			"type": 0,
+			"api": "https://www.pgxdy.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.kxgav.com",
+			"name": "🔞白嫖资源㊙",
+			"type": 0,
+			"api": "https://www.kxgav.com/api/xml.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://api.kudian70.com",
+			"name": "🔞酷 伦 理㊕",
+			"type": 1,
+			"api": "https://api.kudian70.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://yingkuzy.com",
+			"name": "🔞影库资源㊕",
+			"type": 1,
+			"api": "https://api.ykapi.net/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://kkzy.me",
+			"name": "🔞ＫＫ资源㊙",
+			"type": 1,
+			"api": "https://kkzy.me/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://api.yikanapi.com",
+			"name": "🔞易看资源㊕",
+			"type": 1,
+			"api": "https://api.yikanapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://api.yikanapi.com",
+			"name": "🔞易看资源㊕",
+			"type": 1,
+			"api": "https://api.yikanapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.madou.pw",
+			"name": "🔞麻 豆 社㊙",
+			"type": 1,
+			"api": "https://www.madou.pw/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://www.madouse.la",
+			"name": "🔞麻 豆 网㊙",
+			"type": 1,
+			"api": "http://www.madouse.la/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.xkcm.cc",
+			"name": "🔞星空传媒㊙",
+			"type": 1,
+			"api": "https://www.xkcm.cc/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://91md.me",
+			"name": "🔞九一麻豆㊙",
+			"type": 1,
+			"api": "https://91md.me/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.53894.com",
+			"name": "🔞麻豆传媒㊙",
+			"type": 1,
+			"api": "https://www.53894.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.91xsj.cc",
+			"name": "🔞性 视 界㊙",
+			"type": 1,
+			"api": "https://www.91xsj.cc/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://51smt4.xyz",
+			"name": "🔞水 蜜 桃㊙",
+			"type": 1,
+			"api": "https://51smt4.xyz/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://smt999.cc",
+			"name": "🔞水 蜜 桃㊙",
+			"type": 1,
+			"api": "https://smt999.cc/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://aosikazy.com",
+			"name": "🔞奥 斯 卡㊙",
+			"type": 1,
+			"api": "https://aosikazy.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.madou.fit",
+			"name": "🔞麻豆射区㊙",
+			"type": 1,
+			"api": "https://www.madou.fit/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://www.mdmd.pw",
+			"name": "🔞黄瓜视频㊙",
+			"type": 1,
+			"api": "http://www.mdmd.pw/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://www.tianmei.pw",
+			"name": "🔞黄瓜视频㊙",
+			"type": 1,
+			"api": "http://www.tianmei.pw/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://www.56cf.com",
+			"name": "🔞蜜桃影像㊙",
+			"type": 1,
+			"api": "http://www.56cf.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://www.9xg.cc",
+			"name": "🔞蜜桃影像㊙",
+			"type": 1,
+			"api": "http://www.9xg.cc/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://www.regou.la",
+			"name": "🔞麻豆天美㊙",
+			"type": 1,
+			"api": "http://www.regou.la/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://siwazyw.cc",
+			"name": "🔞丝袜资源㊙",
+			"type": 1,
+			"api": "https://siwazyw.cc/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://api.xiuseapi.com",
+			"name": "🔞秀色资源㊙",
+			"type": 1,
+			"api": "https://api.xiuseapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://tantanzy.com",
+			"name": "🔞探探资源㊙",
+			"type": 1,
+			"api": "https://apittzy.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://99zy.pw",
+			"name": "🔞九九资源㊙",
+			"type": 1,
+			"api": "https://99zy.pw/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.888dav.com",
+			"name": "🔞抖阴视频㊙",
+			"type": 1,
+			"api": "https://www.888dav.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://kudouzy.com",
+			"name": "🔞酷豆资源㊙",
+			"type": 1,
+			"api": "https://api.kdapi.info/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://laoyazy.com",
+			"name": "🔞老鸭资源㊙",
+			"type": 1,
+			"api": "https://api.apilyzy.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://www.lajiaozy.com",
+			"name": "🔞辣椒资源㊙",
+			"type": 1,
+			"api": "https://apilj.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://lebozy.com",
+			"name": "🔞乐播资源㊙",
+			"type": 1,
+			"api": "https://lbapi9.com",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://jializyzapi.com",
+			"name": "🔞佳丽资源㊙",
+			"type": 1,
+			"api": "https://jializyzapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://fhapi9.com",
+			"name": "🔞番号资源㊙",
+			"type": 1,
+			"api": "http://fhapi9.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://shayuapi.com",
+			"name": "🔞鲨鱼资源㊙",
+			"type": 1,
+			"api": "https://shayuapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://mgzyz1.com",
+			"name": "🔞芒果ＡＶ㊙",
+			"type": 1,
+			"api": "https://mgzyz1.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://sewozy.com",
+			"name": "🔞色窝资源㊙",
+			"type": 1,
+			"api": "https://sewozyapi.com",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://api.avkk8zy.com",
+			"name": "🔞艾薇资源㊙",
+			"type": 1,
+			"api": "http://api.avkk8zy.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://155zy.com",
+			"name": "🔞一五资源㊙",
+			"type": 1,
+			"api": "https://155api.com",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://langyouzy.com",
+			"name": "🔞狼友资源㊙",
+			"type": 1,
+			"api": "https://langyouzy.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://hghhh.com",
+			"name": "🔞皇冠资源㊙",
+			"type": 1,
+			"api": "https://www.partnersky-horoskop.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.didizy.com",
+			"name": "🔞滴滴资源㊙",
+			"type": 1,
+			"api": "https://api.ddapi.cc/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://xuebaozy.com",
+			"name": "🔞雪豹资源㊙",
+			"type": 1,
+			"api": "https://api.xbapi.cc",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://huasezy.com",
+			"name": "🔞花色资源㊙",
+			"type": 1,
+			"api": "https://api.huasezy.xyz/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://hszy.vip",
+			"name": "🔞黄色资源㊙",
+			"type": 1,
+			"api": "https://hszy.vip/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "http://langchaozy11.com",
+			"name": "🔞浪潮资源㊙",
+			"type": 1,
+			"api": "http://langchaozy11.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://slapibf.com",
+			"name": "🔞森林资源㊙",
+			"type": 1,
+			"api": "https://slapibf.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://beiyong.slapibf.com",
+			"name": "🔞森林资源㊙",
+			"type": 1,
+			"api": "https://beiyong.slapibf.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://www.zy018.com",
+			"name": "🔞黄瓜资源㊙",
+			"type": 1,
+			"api": "https://www.zy018.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://yutuzy.com",
+			"name": "🔞玉兔资源㊙",
+			"type": 1,
+			"api": "https://apiyutu.com",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://putaozy.com",
+			"name": "🔞葡萄资源㊙",
+			"type": 1,
+			"api": "https://caiji.putaozy.net/inc/apijson_vod.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://putaozy.com",
+			"name": "🔞葡萄资源㊙",
+			"type": 1,
+			"api": "https://api.putaozy.net/inc/apijson_vod.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://huakuizy.com",
+			"name": "🔞花魁资源㊙",
+			"type": 1,
+			"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://523zyw.me",
+			"name": "🔞523资源㊙",
+			"type": 1,
+			"api": "https://caiji.523zyw.com/inc/apijson_vod.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://cmziyuan.com",
+			"name": "🔞xxxxxx㊙",
+			"type": 1,
+			"api": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://semaozy.com",
+			"name": "🔞色猫资源㊙",
+			"type": 1,
+			"api": "https://api.maozyapi.com/inc/apijson_vod.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://monai.vip",
+			"name": "🔞奶茶资源㊙",
+			"type": 1,
+			"api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        },
+        {
+            "key": "https://api.sexnguon.com",
+			"name": "🔞色 南 国㊙",
+			"type": 1,
+			"api": "https://api.sexnguon.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+        }
+	],
+
+
+	"parses": [{
+			"name": "解析聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "Json并发",
+			"type": 2,
+			"url": "Parallel"
+		},
+		{
+			"name": "Json轮询",
+			"type": 2,
+			"url": "Sequence"
+		},
+		{
+			"name": "keyu",
+			"type": 1,
+			"url": "http://newjiexi.gotka.top/keyu3.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "GGTV1",
+			"type": 1,
+			"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+		},
+		{
+			"name": "GGTV2",
+			"type": 1,
+			"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="
+		},
+		{
+			"name": "aiku",
+			"type": 1,
+			"url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="
+		},
+		{
+			"name": "CK解析",
+			"type": 1,
+			"url": "http://api.ckflv.cn/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "懒人",
+			"type": 1,
+			"url": "http://120.53.102.254/jx1/jx75.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "视界",
+			"type": 1,
+			"url": "http://150.230.216.174/tvjx.php?url=",
+			"ext": {
+				"flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"],
+				"header": {
+					"User-Agent": "Dart/2.14 (dart:io)"
+				}
+			}
+		},
+		{
+			"name": "油果",
+			"type": 1,
+			"url": "http://json.youguo520.top/fufeng/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+				"header": {
+					"User-Agent": "Dart/2.14 (dart:io)"
+				}
+			}
+		},
+		{
+			"name": "搬运",
+			"type": 1,
+			"url": "https://jx.bynote.top/API.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "爱豆",
+			"type": 1,
+			"url": "http://id190.tpddns.cn:81/jsonch/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "365",
+			"type": 0,
+			"url": "https://chaxun.truechat365.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "parwix稳定",
+			"type": 0,
+			"url": "https://jx.bozrc.com:4433/player/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "parwix1",
+			"type": 0,
+			"url": "https://jx.parwix.com:4433/player/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "parwix2",
+			"type": 0,
+			"url": "https://jx.parwix.com:4433/player/analysis.php?v=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "8old",
+			"type": 0,
+			"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "OK解析",
+			"type": 0,
+			"url": "https://okjx.cc/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "m3u8",
+			"type": 0,
+			"url": "https://jx.m3u8.tv/jiexi/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "醉仙",
+			"type": 0,
+			"url": "https://jx.zui.cm/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "1907",
+			"type": 1,
+			"url": "https://z1.m1907.cn/?jx=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "思古",
+			"type": 1,
+			"url": "https://jsap.attakids.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "爱豆",
+			"type": 1,
+			"url": "https://jx.aidouer.net/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "虾米",
+			"type": 1,
+			"url": "https://jx.xmflv.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "夜幕",
+			"type": 1,
+			"url": "https://www.yemu.xyz/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "人人迷",
+			"type": 1,
+			"url": "https://jx.blbo.cc:4433/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "冰豆",
+			"type": 1,
+			"url": "https://api.qianqi.net/vip/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "CK",
+			"type": 1,
+			"url": "https://www.ckplayer.vip/jiexi/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "playerjy/B站",
+			"type": 1,
+			"url": "https://jx.playerjy.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "ccyjjd",
+			"type": 1,
+			"url": "https://ckmov.ccyjjd.com/ckmov/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "诺诺",
+			"type": 1,
+			"url": "https://www.ckmov.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "BL",
+			"type": 1,
+			"url": "https://vip.bljiex.com/?v=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "解析la",
+			"type": 1,
+			"url": "https://api.jiexi.la/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "MAO",
+			"type": 1,
+			"url": "https://www.mtosz.com/m3u8.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "老板",
+			"type": 1,
+			"url": "https://vip.laobandq.com/jiexi.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "盘古",
+			"type": 1,
+			"url": "http://www.pangujiexi.cc/jiexi.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "盖世",
+			"type": 1,
+			"url": "https://www.gai4.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "0523",
+			"type": 1,
+			"url": "https://go.yh0523.cn/y.cy?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "17云",
+			"type": 1,
+			"url": "https://www.1717yun.com/jx/ty.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "4K",
+			"type": 1,
+			"url": "https://jx.4kdv.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "8090",
+			"type": 1,
+			"url": "https://www.8090g.cn/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "江湖",
+			"type": 1,
+			"url": "https://api.jhdyw.vip/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "诺讯",
+			"type": 1,
+			"url": "https://www.nxflv.com/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		},
+		{
+			"name": "PM",
+			"type": 1,
+			"url": "https://www.playm3u8.cn/jiexi.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
+		}
+	],
+	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+	"spider": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "redirect",
+			"urls": [
+				"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
+			]
+		}]
+	}],
+	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renrenmi"],
+	"ijk": [{
+			"group": "软解码",
+			"options": [{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		},
+		{
+			"group": "硬解码",
+			"options": [{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		}
+	],
+	"ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"]
+}
