@@ -635,7 +635,7 @@
 			"key": "http://bttcj.com",
 			"name": "🔞博 天 堂㊙",
 			"type": 0,
-			"api": "http://bttcj.com/inc/sapi.php?ac=list",
+			"api": "http://bttcj.com/inc/sapi.php",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -646,7 +646,7 @@
 			"key": "http://mygzycj.com",
 			"name": "🔞JAV名优㊙",
 			"type": 0,
-			"api": "http://mygzycj.com/api.php?ac=list",
+			"api": "http://mygzycj.com/api.php?ac=videolist",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -1499,7 +1499,75 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": []
-        }
+		},
+		{
+			"key": "占位21",
+			"name": "　　　　　　",
+			"type": 1,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "占位22",
+			"name": "　　　　　　",
+			"type": 1,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "占位23",
+			"name": "　　　　　　",
+			"type": 1,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+
+// xml采集
+		{
+			"key": "https://www.10caiji.com/home/index.html",
+			"name": "🔞色 屌 丝㊙",
+			"type": 1,
+			"api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.021caiji.com/home/index.html",
+			"name": "🔞精 工 厂㊙",
+			"type": 0,
+			"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://xx55zyapi.com/home/index.html",
+			"name": "🔞点点娱乐㊙",
+			"type": 0,
+			"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		}
 	],
 
 //解X设置
