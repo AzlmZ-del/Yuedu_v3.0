@@ -602,7 +602,7 @@
 			"key": "https://f2dzyw65.com",
 			"name": "🔞富 二 代㊙",
 			"type": 0,
-			"api": "http://f2dcj6.com/sapi/?ac=videolist",
+			"api": "http://f2dcj6.com/sapi?ac=videolist",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
