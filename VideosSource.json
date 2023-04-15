@@ -69,7 +69,7 @@
 			"categories": ["动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片"]
 		},
 		{
-			"key": "http://www.ffzy.tv",
+			"key": "http://www.ffzy.tv（备）",
 			"name": "🐝非凡资源Ⓢ",
 			"type": 1,
 			"api": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -113,7 +113,7 @@
 			"categories": []
 		},
 		{
-			"key": "https://www.wujinzy.com",
+			"key": "https://www.wujinzy.com（备）",
 			"name": "🐝无尽资源Ⓢ",
 			"type": 1,
 			"api": "https://api.wujinapi.com/api.php/provide/vod",
@@ -278,7 +278,7 @@
 			"categories": []
 		},
 		{
-			"key": "https://tiankongzy.com",
+			"key": "https://tiankongzy.com（备）",
 			"name": "🐝天空资源Ⓐ",
 			"type": 1,
 			"api": "https://api.tiankongapi.com/api.php/provide/vod",
@@ -322,7 +322,7 @@
 			"categories": []
 		},
 		{
-			"key": "https://yulezyw.com",
+			"key": "https://yulezyw.com（备）",
 			"name": "🐝鱼乐资源Ⓐ",
 			"type": 1,
 			"api": "https://api.yulecj.com/api.php/provide/vod",
@@ -476,7 +476,7 @@
 			"categories": []
 		},
 		{
-			"key": "https://ckzy.me",
+			"key": "https://ckzy.me（备）",
 			"name": "🐝ＣＫ资源Ⓑ",
 			"type": 1,
 			"api": "https://www.feifei67.com/api.php/provide/vod",
@@ -1413,7 +1413,7 @@
 			"categories": []
         	},
         	{
-			"key": "https://putaozy.com",
+			"key": "https://putaozy.com（备）",
 			"name": "🔞葡萄资源㊙",
 			"type": 1,
 			"api": "https://api.putaozy.net/inc/apijson_vod.php",
