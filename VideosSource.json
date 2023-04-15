@@ -1,6 +1,7 @@
 {
 	"sites": [
 
+// API 资源采集
 		{
 			"key": "http://www.lzzy.tv",
 			"name": "🐝量子资源Ⓢ",
@@ -190,7 +191,7 @@
 		},
 		{
 			"key": "https://www.xinlangzy.com",
-			"name": "����新浪资源Ⓐ",
+			"name": "🐝新浪资源Ⓐ",
 			"type": 1,
 			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
 			"playUrl": "",
@@ -497,7 +498,7 @@
 			"categories": []
 		},
 
-
+// API 资源采集 Adult
 		{
 			"key": "https://f2dzyw65.com",
 			"name": "🔞富 二 代㊙",
@@ -1279,7 +1280,7 @@
         }
 	],
 
-
+//解X设置
 	"parses": [{
 			"name": "解析聚合",
 			"type": 3,
