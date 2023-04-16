@@ -1559,8 +1559,8 @@
 // xml采集
 		{
 			"key": "https://www.021caiji.com/home/index.html",
-			"name": "🔞精 工 厂㊙",
-			"type": 1,
+			"name": "🔞精 工 厂㊙xml",
+			"type": 0,
 			"api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
