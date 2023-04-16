@@ -147,10 +147,10 @@
 		},
 		{
 			"key": "https://hdzyk.com",
-			"name": "🐝1080资源Ⓢ",
+			"name": "🐝1080资源Ⓢ1111",
 			"type": 1,
-			"api": "https://api.1080zyku.com/inc/apijson.php/",
-			"playUrl": "",
+			"api": "https://api.1080zyku.com/inc/api_mac10_all.php",
+			"playUrl": "https://vip.zykbf.com/?url=",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
