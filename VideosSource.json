@@ -2,7 +2,7 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-17",
+			"name": "2023-04-18",
 			"type": 0,
 			"api": "",
 			"playUrl": "",
@@ -24,7 +24,7 @@
 		},
 		{
 			"key": "资源数量",
-			"name": "48+87",
+			"name": "48+96",
 			"type": 0,
 			"api": "",
 			"playUrl": "",
@@ -1758,10 +1758,98 @@
 			"categories": []
 		},
 		{
-			"key": "xxxxxx",
-			"name": "🔞xxxxxx㊙",
+			"key": "https://www.ggmmzy.com:9999",
+			"name": "🔞哥哥妹妹㊙",
 			"type": 0,
-			"api": "xxxxxx",
+			"api": "https://www.ggmmzy.com:9999/inc/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://www.sdzy002.com:777",
+			"name": "🔞速度资源㊙",
+			"type": 0,
+			"api": "http://www.shabizy.com:777/inc/sea",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://dadizy.com",
+			"name": "🔞大地资源㊙",
+			"type": 0,
+			"api": "https://dadiapi.com/api.php",
+			"playUrl": "https://play.dadiapi.com/watch?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.52zyapi.com/home/index.html",
+			"name": "🔞52avav㊙",
+			"type": 0,
+			"api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.dmmcaiji.com/home/index.html",
+			"name": "🔞大 Ｍ Ｍ㊙",
+			"type": 0,
+			"api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.xx55zyapi.com/home/index.html",
+			"name": "🔞点点娱乐㊙",
+			"type": 0,
+			"api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.xjjcaiji.com/home/index.html",
+			"name": "🔞小 姐 姐㊙",
+			"type": 0,
+			"api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.10caiji.com/home/index.html",
+			"name": "🔞色 屌 丝㊙",
+			"type": 0,
+			"api": "https://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.021caiji.com/home/index.html",
+			"name": "🔞精 工 厂㊙",
+			"type": 0,
+			"api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
