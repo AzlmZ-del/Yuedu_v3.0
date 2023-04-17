@@ -1,5 +1,38 @@
 {
 	"sites": [
+		{
+			"key": "更新时间",
+			"name": "2023-04-17",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "托管平台",
+			"name": "Github",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "资源数量",
+			"name": "48+87",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
 
 // API 资源采集
 		{
@@ -1562,7 +1595,7 @@
 		{
 			"key": "https://www.caiji01.com/home/index.html",
 			"name": "🔞亚洲成人㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1573,7 +1606,7 @@
 		{
 			"key": "https://www.caiji02.com/home/index.html",
 			"name": "🔞草榴视频㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1584,7 +1617,7 @@
 		{
 			"key": "https://www.caiji03.com/home/index.html",
 			"name": "🔞一 本 道㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1595,7 +1628,7 @@
 		{
 			"key": "https://www.caiji04.com/home/index.html",
 			"name": "🔞麻豆视频㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1606,7 +1639,7 @@
 		{
 			"key": "https://www.caiji05.com/home/index.html",
 			"name": "🔞青 青 草㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1617,7 +1650,7 @@
 		{
 			"key": "https://www.caiji07.com/home/index.html",
 			"name": "🔞日本ＡＶ㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1628,7 +1661,7 @@
 		{
 			"key": "https://www.caiji08.com/home/index.html",
 			"name": "🔞大 香 蕉㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1639,7 +1672,7 @@
 		{
 			"key": "https://www.caiji09.com/home/index.html",
 			"name": "🔞快播盒子㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1650,7 +1683,7 @@
 		{
 			"key": "https://www.caiji10.com/home/index.html",
 			"name": "🔞黄瓜ＴＶ㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1661,7 +1694,7 @@
 		{
 			"key": "http://www.caiji21.com/home/index.html",
 			"name": "🔞我要啪啪㊙",
-			"type": 1,
+			"type": 0,
 			"api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1672,7 +1705,7 @@
 		{
 			"key": "https://www.caiji22.com/home/index.html",
 			"name": "🔞AV集中淫㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1683,7 +1716,7 @@
 		{
 			"key": "https://www.caiji23.com/home/index.html",
 			"name": "🔞夜 夜 撸㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1694,7 +1727,7 @@
 		{
 			"key": "https://www.caiji24.com/home/index.html",
 			"name": "🔞大 屌 丝㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1705,7 +1738,7 @@
 		{
 			"key": "https://www.caiji25.com/home/index.html",
 			"name": "🔞咪咪资源㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1716,7 +1749,7 @@
 		{
 			"key": "https://www.caiji26.com/home/index.html",
 			"name": "🔞鲍鱼ＡＶ㊙",
-			"type": 1,
+			"type": 0,
 			"api": "https://www.caiji26.com/home/cjapi/p0g8/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
@@ -1727,7 +1760,7 @@
 		{
 			"key": "xxxxxx",
 			"name": "🔞xxxxxx㊙",
-			"type": 1,
+			"type": 0,
 			"api": "xxxxxx",
 			"playUrl": "",
 			"searchable": 1,
