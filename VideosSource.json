@@ -2,7 +2,7 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-18",
+			"name": "2023-04-18 00:05",
 			"type": 0,
 			"api": "",
 			"playUrl": "",
@@ -1758,10 +1758,10 @@
 			"categories": []
 		},
 		{
-			"key": "https://www.ggmmzy.com:9999",
+			"key": "http://www.ggmmzy.com:9999",
 			"name": "🔞哥哥妹妹㊙",
 			"type": 0,
-			"api": "https://www.ggmmzy.com:9999/inc/xml",
+			"api": "http://www.ggmmzy.com:9999/inc/xml",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
