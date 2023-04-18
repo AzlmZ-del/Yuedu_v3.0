@@ -2,9 +2,9 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-19 00:01",
-			"type": 1,
-			"api": "http://xydm.baicai.buzz/mogai_api.php/v1.vod",
+			"name": "2023-04-19 00:41",
+			"type": 0,
+			"api": "https://156.249.29.8/inc/api.php",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -1365,7 +1365,7 @@
 		},
 		{
 			"key": "https://cj.apiabzy.com",
-			"name": "🔞佳丽资源㊙",
+			"name": "🔞爱播资源㊙",
 			"type": 1,
 			"api": "https://cj.apiabzy.com/api.php/provide/vod",
 			"playUrl": "https://player.aibozyplayer.com/m3u8/?url=",
@@ -1704,21 +1704,10 @@
 			"filterable": 0,
 			"categories": []
 		},
-		{
-			"key": "占位23",
-			"name": "　　　　　　",
-			"type": 1,
-			"api": "",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-		},
 
 // xml采集 Adult
 		{
-			"key": "占位24",
+			"key": "占位23",
 			"name": "༺ˇ»`ʚ  ",
 			"type": 0,
 			"api": "",
@@ -1729,7 +1718,7 @@
 			"categories": []
 		},
 		{
-			"key": "占位25",
+			"key": "占位24",
 			"name": "xml采集",
 			"type": 0,
 			"api": "",
@@ -1740,7 +1729,7 @@
 			"categories": []
 		},
 		{
-			"key": "占位26",
+			"key": "占位25",
 			"name": "  ɞ´«ˇ༻",
 			"type": 0,
 			"api": "",
@@ -1981,10 +1970,10 @@
 			"categories": []
 		},
 		{
-			"key": "http://www.ggmmzy.com:9999",
-			"name": "🔞哥哥妹妹㊙",
+			"key": "https://www.10caiji.com/home/index.html",
+			"name": "🔞色 屌 丝㊙",
 			"type": 0,
-			"api": "http://www.ggmmzy.com:9999/inc/xml",
+			"api": "https://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -1992,22 +1981,11 @@
 			"categories": []
 		},
 		{
-			"key": "http://www.sdzy002.com:777",
-			"name": "🔞速度资源㊙",
+			"key": "https://www.021caiji.com/home/index.html",
+			"name": "🔞精 工 厂㊙",
 			"type": 0,
-			"api": "http://www.shabizy.com:777/inc/sea",
+			"api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
 			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-		},
-		{
-			"key": "https://dadizy.com",
-			"name": "🔞大地资源㊙",
-			"type": 0,
-			"api": "https://dadiapi.com/api.php",
-			"playUrl": "https://play.dadiapi.com/watch?url=",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -2036,6 +2014,17 @@
 			"categories": []
 		},
 		{
+			"key": "https://dadizy.com",
+			"name": "🔞大地资源㊙",
+			"type": 0,
+			"api": "https://dadiapi.com/api.php",
+			"playUrl": "https://play.dadiapi.com/watch?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
 			"key": "https://www.xx55zyapi.com/home/index.html",
 			"name": "🔞点点娱乐㊙",
 			"type": 0,
@@ -2047,32 +2036,43 @@
 			"categories": []
 		},
 		{
+			"key": "http://www.ggmmzy.com:9999",
+			"name": "🔞哥哥妹妹㊙",
+			"type": 0,
+			"api": "http://www.ggmmzy.com:9999/inc/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.lsjcaiji.com/home/index.html",
+			"name": "🔞老 司 鸡㊙",
+			"type": 0,
+			"api": "https://www.lsjapi.com/home/cjapi/asd2g8/mc10/vod/xml",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://www.sdzy002.com:777",
+			"name": "🔞速度资源㊙",
+			"type": 0,
+			"api": "http://www.shabizy.com:777/inc/sea",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
 			"key": "https://www.xjjcaiji.com/home/index.html",
 			"name": "🔞小 姐 姐㊙",
 			"type": 0,
 			"api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-		},
-		{
-			"key": "https://www.10caiji.com/home/index.html",
-			"name": "🔞色 屌 丝㊙",
-			"type": 0,
-			"api": "https://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-		},
-		{
-			"key": "https://www.021caiji.com/home/index.html",
-			"name": "🔞精 工 厂㊙",
-			"type": 0,
-			"api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
