@@ -556,7 +556,7 @@
 			"key": "http://cj.bajiecaiji.com",
 			"name": "🐝八戒资源Ⓒ",
 			"type": 1,
-			"api": "http://cj.bajiecaiji.com/inc/apijson_vod.php/",
+			"api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
