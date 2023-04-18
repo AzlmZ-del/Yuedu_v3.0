@@ -2,9 +2,9 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-18 23:53",
+			"name": "2023-04-19 00:01",
 			"type": 1,
-			"api": "",
+			"api": "http://xydm.baicai.buzz/mogai_api.php/v1.vod",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -1254,17 +1254,6 @@
 			"categories": []
 		},
 		{
-			"key": "https://api.yikanapi.com",
-			"name": "🔞易看资源㊕",
-			"type": 1,
-			"api": "https://api.yikanapi.com/api.php/provide/vod",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-		},
-		{
 			"key": "https://siwazyw.cc",
 			"name": "🔞丝袜资源㊙",
 			"type": 1,
@@ -1715,10 +1704,21 @@
 			"filterable": 0,
 			"categories": []
 		},
+		{
+			"key": "占位23",
+			"name": "　　　　　　",
+			"type": 1,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
 
 // xml采集 Adult
 		{
-			"key": "占位23",
+			"key": "占位24",
 			"name": "༺ˇ»`ʚ  ",
 			"type": 0,
 			"api": "",
@@ -1729,7 +1729,7 @@
 			"categories": []
 		},
 		{
-			"key": "占位24",
+			"key": "占位25",
 			"name": "xml采集",
 			"type": 0,
 			"api": "",
@@ -1740,7 +1740,7 @@
 			"categories": []
 		},
 		{
-			"key": "占位25",
+			"key": "占位26",
 			"name": "  ɞ´«ˇ༻",
 			"type": 0,
 			"api": "",
