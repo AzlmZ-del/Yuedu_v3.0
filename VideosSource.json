@@ -2,9 +2,9 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-18 12:54",
+			"name": "2023-04-18 19:36",
 			"type": 1,
-			"api": "https://52zyapi.com/home/cjapi/asda/fei4/vod/json",
+			"api": "",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -27,6 +27,174 @@
 			"name": "48+96",
 			"type": 0,
 			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+
+// API 资源采集 正版
+		{
+			"key": "https://zy.rryy.tv",
+			"name": "🐝猫咪资源㊣",
+			"type": 1,
+			"api": "http://zy.xiaomaomi.vip/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://124.220.183.81:83",
+			"name": "🐝干饭影视㊣",
+			"type": 1,
+			"api": "http://124.220.183.81:83/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.zhanlangbu.com",
+			"name": "🐝爱酷影视㊣",
+			"type": 1,
+			"api": "https://www.zhanlangbu.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://cms.json.vin",
+			"name": "🐝json资源㊣",
+			"type": 1,
+			"api": "https://cms.json.vin/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://cj.md214.cn",
+			"name": "🐝明帝资源㊣",
+			"type": 1,
+			"api": "http://cj.md214.cn/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://anltv.cn",
+			"name": "🐝忆梦影视㊣",
+			"type": 1,
+			"api": "https://anltv.cn/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://pg1.bd9e.cn",
+			"name": "🐝九亿资源㊣",
+			"type": 1,
+			"api": "http://pg1.bd9e.cn/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://www.6uzy.cc",
+			"name": "🐝6Ｕ资源㊣",
+			"type": 1,
+			"api": "http://www.6uzy.cc/inc/apijson_vod.php",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://tv2.hykjtv.cn",
+			"name": "🐝海玉影视㊣",
+			"type": 1,
+			"api": "http://tv2.hykjtv.cn/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+
+		{
+			"key": "http://47.113.126.237:1234",
+			"name": "🐝每天看看㊯",
+			"type": 1,
+			"api": "http://47.113.126.237:1234/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://cj.vodimg.top",
+			"name": "🐝影图资源㊯",
+			"type": 1,
+			"api": "https://cj.vodimg.top/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.ff9.top",
+			"name": "🐝引擎资源㊯",
+			"type": 1,
+			"api": "https://www.ff9.top/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://lovedan.net",
+			"name": "🐝艾旦影视㊯",
+			"type": 1,
+			"api": "https://lovedan.net/api.php/provide/vod",
+			"playUrl": "https://lovedan.net/addons/dplayer/?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://ddmf.net",
+			"name": "🐝蛋蛋影视㊯",
+			"type": 1,
+			"api": "https://ddmf.net/api.php/provide/vod",
+			"playUrl": "https://ddmf.net/addons/dplayer/?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "http://xydm.baicai.buzz",
+			"name": "🐝小鸟动漫㊯",
+			"type": 1,
+			"api": "http://xydm.baicai.buzz",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
