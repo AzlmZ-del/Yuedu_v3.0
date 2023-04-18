@@ -3,7 +3,7 @@
 		{
 			"key": "更新时间",
 			"name": "2023-04-18 09:40",
-			"type": 3,
+			"type": 1,
 			"api": "http://xydm.baicai.buzz/mogai_api.php/v1.vod",
 			"playUrl": "",
 			"searchable": 1,
