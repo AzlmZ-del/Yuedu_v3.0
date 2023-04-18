@@ -2,9 +2,9 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-18",
-			"type": 0,
-			"api": "",
+			"name": "2023-04-18 09:20",
+			"type": 1,
+			"api": "http://xydm.baicai.buzz/mogai_api.php/v1.vod",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
