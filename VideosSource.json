@@ -2,7 +2,7 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-18 19:51",
+			"name": "2023-04-18 23:41",
 			"type": 1,
 			"api": "",
 			"playUrl": "",
@@ -84,6 +84,17 @@
 			"name": "🐝忆梦影视㊣",
 			"type": 1,
 			"api": "https://anltv.cn/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://www.ff9.top",
+			"name": "🐝ff9资源㊣",
+			"type": 1,
+			"api": "https://www.ff9.top/api.php/provide/vod",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -226,6 +237,17 @@
 			"categories": []
 		},
 		{
+			"key": "http://shangjihuoke.com（量子资源）",
+			"name": "🐝段友影视Ⓢ",
+			"type": 1,
+			"api": "http://shangjihuoke.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
 			"key": "http://www.ffzy.tv",
 			"name": "🐝非凡资源Ⓢ",
 			"type": 1,
@@ -285,6 +307,17 @@
 			"name": "🐝无尽资源Ⓢ",
 			"type": 1,
 			"api": "https://api.wujinapi.com/api.php/provide/vod",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://p2100.net（无尽资源）",
+			"name": "🐝飘零影院Ⓢ",
+			"type": 1,
+			"api": "https://p2100.net/api.php/provide/vod",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -544,6 +577,17 @@
 			"filterable": 0,
 			"categories": []
 		},
+		{
+            "key": "https://taopianapi.com/home/",
+            "name": "🐝淘片 A",
+            "type": 0,
+            "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": []
+        },
 		{
 			"key": "https://yhzy.cc",
 			"name": "🐝樱花资源Ⓑ",
