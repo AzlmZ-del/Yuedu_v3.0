@@ -2,7 +2,7 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-18 23:41",
+			"name": "2023-04-18 23:53",
 			"type": 1,
 			"api": "",
 			"playUrl": "",
@@ -1715,10 +1715,12 @@
 			"filterable": 0,
 			"categories": []
 		},
+
+// xml采集 Adult
 		{
 			"key": "占位23",
-			"name": "　　　　　　",
-			"type": 1,
+			"name": "༺ˇ»`ʚ  ",
+			"type": 0,
 			"api": "",
 			"playUrl": "",
 			"searchable": 1,
@@ -1726,8 +1728,28 @@
 			"filterable": 0,
 			"categories": []
 		},
-
-// xml采集 Adult
+		{
+			"key": "占位24",
+			"name": "xml采集",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "占位25",
+			"name": "  ɞ´«ˇ༻",
+			"type": 0,
+			"api": "",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
 		{
 			"key": "https://www.msnii.com",
 			"name": "🔞美 少 女㊙",
