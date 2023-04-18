@@ -2,7 +2,7 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-18 19:36",
+			"name": "2023-04-18 19:51",
 			"type": 1,
 			"api": "",
 			"playUrl": "",
@@ -58,17 +58,6 @@
 			"categories": []
 		},
 		{
-			"key": "https://www.zhanlangbu.com",
-			"name": "🐝爱酷影视㊣",
-			"type": 1,
-			"api": "https://www.zhanlangbu.com/api.php/provide/vod",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-		},
-		{
 			"key": "https://cms.json.vin",
 			"name": "🐝json资源㊣",
 			"type": 1,
@@ -102,32 +91,10 @@
 			"categories": []
 		},
 		{
-			"key": "http://pg1.bd9e.cn",
-			"name": "🐝九亿资源㊣",
-			"type": 1,
-			"api": "http://pg1.bd9e.cn/api.php/provide/vod",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-		},
-		{
 			"key": "http://www.6uzy.cc",
 			"name": "🐝6Ｕ资源㊣",
 			"type": 1,
 			"api": "http://www.6uzy.cc/inc/apijson_vod.php",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": []
-		},
-		{
-			"key": "http://tv2.hykjtv.cn",
-			"name": "🐝海玉影视㊣",
-			"type": 1,
-			"api": "http://tv2.hykjtv.cn/api.php/provide/vod",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -194,7 +161,7 @@
 			"key": "http://xydm.baicai.buzz",
 			"name": "🐝小鸟动漫㊯",
 			"type": 1,
-			"api": "http://xydm.baicai.buzz",
+			"api": "http://xydm.baicai.buzz/api.php/provide/vod",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
