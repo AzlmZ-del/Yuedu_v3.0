@@ -2,9 +2,9 @@
 	"sites": [
 		{
 			"key": "更新时间",
-			"name": "2023-04-18 12:50",
+			"name": "2023-04-18 12:54",
 			"type": 1,
-			"api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/json",
+			"api": "https://52zyapi.com/home/cjapi/asda/fei4/vod/json",
 			"playUrl": "",
 			"searchable": 1,
 			"quickSearch": 1,
