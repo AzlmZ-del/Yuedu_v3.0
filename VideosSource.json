@@ -1196,11 +1196,33 @@
 			"categories": []
 		},
 		{
+			"key": "https://cj.apiabzy.com",
+			"name": "🔞佳丽资源㊙",
+			"type": 1,
+			"api": "https://cj.apiabzy.com/api.php/provide/vod",
+			"playUrl": "https://player.aibozyplayer.com/m3u8/?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
+			"key": "https://xjzyapi.com",
+			"name": "🔞佳丽资源㊙",
+			"type": 1,
+			"api": "https://xjzyapi.com/api.php/provide/vod",
+			"playUrl": "https://player.aibozyplayer.com/m3u8/?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": []
+		},
+		{
 			"key": "https://jializyzapi.com",
 			"name": "🔞佳丽资源㊙",
 			"type": 1,
 			"api": "https://jializyzapi.com/api.php/provide/vod",
-			"playUrl": "",
+			"playUrl": "https://player.aibozyplayer.com/m3u8/?url=",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
